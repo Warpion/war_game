@@ -13,3 +13,4 @@
 4) В игре присутствуют 12 уровней сложности.
 
 Пример игры:
+![Image alt](https://github.com/Warpion/war_game/blob/master/image.png)

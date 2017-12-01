@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.416,=C:\Users\Warpion\Desktop\Игра\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Warpion\Desktop\Игра\Unit1.pas=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Warpion\Desktop\Игра\Unit1.dfm=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,C:\Users\Warpion\Desktop\Игра\Project1.dproj=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=C:\Users\Warpion\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
